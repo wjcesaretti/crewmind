@@ -1,0 +1,12 @@
+id,name,erg_score,side_pref,weight,experience,back_injury
+r1,Alice,480,port,70,3,False
+r2,Bob,470,starboard,75,2,False
+r3,Charlie,490,any,68,4,True
+r4,Diana,460,port,72,1,False
+r5,Edward,500,starboard,80,5,False
+r6,Fiona,475,port,65,2,False
+r7,George,485,any,77,3,False
+r8,Hannah,465,starboard,70,1,False
+r9,Ian,495,port,72,4,False
+r10,Julia,455,starboard,68,2,True
+c1,ChrisCox,0,any,55,5,False 
